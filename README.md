@@ -62,7 +62,7 @@ To apply critical thinking, communication, and analytical skills to help busines
 
 # What You’ll Find Here
 
-- Career Documents [Link Here]
+- Career Documents [Link Here](https://github.com/scampercares/Career-Documents)
 - Business Requirements Documents (BRD)  
 
 
