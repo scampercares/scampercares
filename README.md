@@ -44,7 +44,6 @@ To apply critical thinking, communication, and analytical skills to help busines
 - Business Process Analysis  
 - Stakeholder Engagement  
 - Requirements Gathering & Documentation  
-- Data Interpretation & Visualization  
 - Agile & Project Management Support  
 - Customer-Centric Solutions
 
@@ -53,7 +52,6 @@ To apply critical thinking, communication, and analytical skills to help busines
 # Skills
 
 - Communication | Negotiation | Presentation  
-- Data Analysis | MS Excel | SQL (basic)  
 - Documentation | Report Writing | Stakeholder Management  
 - Project Tools: Trello, Jira, Microsoft Project  
 - Soft Skills: Time Management | Critical Thinking | Adaptability
