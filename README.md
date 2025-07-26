@@ -62,9 +62,9 @@ To apply critical thinking, communication, and analytical skills to help busines
 
 # What You’ll Find Here
 
-- Assessment Reports
+- Career Documents [Link Here]
 - Business Requirements Documents (BRD)  
-- Cover Letter
+
 
 ---
 
